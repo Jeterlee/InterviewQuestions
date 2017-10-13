@@ -4,6 +4,7 @@
 
 ## 关于Android的面试题
 - [2017最新面试题汇总](http://www.jianshu.com/p/3acf5b12fff8)
+- [Android高薪面试题汇录](http://www.jianshu.com/p/695e06881d3b)
 
 
 ## 关于前端的面试题
