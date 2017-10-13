@@ -1,5 +1,5 @@
 # InterviewQuestions
-项目说明：收集一些有关Android、前端、Java的面试题。
+项目说明：收集一些有关 `Android`、`前端`、`Java` 的面试题。
 
 
 ## 关于Android的面试题
