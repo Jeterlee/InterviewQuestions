@@ -69,6 +69,7 @@
 
 
 ## 关于前端的面试题
+- [前端面试总结](http://www.jianshu.com/p/a52fb2cd7e8b)
 
 
 ## 关于Java的面试题
