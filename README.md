@@ -1,6 +1,8 @@
 # InterviewQuestions
 项目说明：收集一些有关 `Android`、`前端`、`Java` 的面试题及面试技巧。
 
+进入[wiki](https://github.com/jeterlee/awesome-interview/wiki)
+
 
 ## 一、关于Android的面试题
 Content|Remark
